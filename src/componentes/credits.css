@@ -1,0 +1,13 @@
+#credits {
+    display: flex;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.6rem;
+    color: #fff;
+}
+
+a {
+    text-decoration: none;
+    color: #2783cf;
+}

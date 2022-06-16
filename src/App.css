@@ -1,0 +1,16 @@
+.container {
+    background-color: #094074;
+    max-width: 420px;
+    margin: 70px auto 60px auto;
+    overflow: auto;
+    min-height: 400px;
+    border: 2px solid #094074;
+    border-radius: 10px;
+}
+
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(5, 20%);
+    grid-template-rows: 80px 80px 80px 80px;
+}
+

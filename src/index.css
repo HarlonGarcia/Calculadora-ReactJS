@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: 'Play', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: rgb(17,17,17);
+background: linear-gradient(90deg, rgba(17,17,17,1) 0%, rgba(33,37,41,1) 100%);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
